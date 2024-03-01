@@ -12,8 +12,3 @@ choices = get_choices()
 
 print (choices)
 
-def winnerPlayer(Player, Computer):
-    if (Player == Computer):
-        print("Empate")
-
-print("Fvck")
